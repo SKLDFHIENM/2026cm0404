@@ -12,7 +12,7 @@ pnpm-lock.yaml
 dist/
 build/
 *.wasm
-
+*.toml
 # Cloudflare Workers
 .wrangler/
 wrangler-install.log
