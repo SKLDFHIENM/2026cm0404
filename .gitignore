@@ -29,6 +29,7 @@ wrangler-install.log
 .env
 .env.local
 .env.*.local
+wrangler.toml
 
 # 日志文件
 *.log
